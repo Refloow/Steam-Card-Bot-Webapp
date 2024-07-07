@@ -1,0 +1,27 @@
+{
+  "name": "steam-card-bot-webapp",
+  "version": "1.0.0",
+  "description": "Special version of the cardbot meant to be used in connection to storefront website!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refloow/Steam-Card-Bot-Webapp.git"
+  },
+  "keywords": [
+    "Steam",
+    "Trade",
+    "SteamTradeBot",
+    "Level",
+    "steamlevel",
+    "steambot",
+    "stgeamcardbot",
+    "levelbot"
+  ],
+  "author": "Veljko Vuckovic",
+  "license": "MIT",
+  "years": "2024",
+  "bugs": {
+    "url": "https://github.com/Refloow/Steam-Card-Bot-Webapp/issues"
+  },
+  "homepage": "https://github.com/Refloow/Steam-Card-Bot-Webapp"
+}
